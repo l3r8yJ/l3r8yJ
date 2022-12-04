@@ -1,5 +1,5 @@
 – contact me.
-[<img align="left" alt="l3r8yJ | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](clicker.heroes.acg@gmail.com)
+[<img align="left" alt="l3r8yJ | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:clicker.heroes.acg@gmail.com)
 [<img align="left" alt="l3r8yJ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/l3r8y/)
 [<img align="left" alt="l3r8yJ | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/l3r8y)
 <br/>
