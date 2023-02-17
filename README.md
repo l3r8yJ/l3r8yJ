@@ -8,3 +8,5 @@ The repos I'm working on right now:
 
   1. [EO](https://github.com/objectionary/eo)
   2. [elegram-api](https://github.com/l3r8yJ/elegram-api) (I need your help, please contribute!)
+  3. [jini](https://github.com/l3r8yJ/jini) (I need your help, please contribute!)
+  4. [rjini](https://github.com/l3r8yJ/rjini) (I need your help, please contribute!)
