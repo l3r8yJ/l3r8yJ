@@ -1,5 +1,5 @@
 ### Welcome
-You can try to read my [blog](https://www.l3r8y.ru/)
+You can try to read my blog at [www.l3r8y.ru](https://www.l3r8y.ru/)
 
 
 – contact me.
