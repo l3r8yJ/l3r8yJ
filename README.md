@@ -9,4 +9,6 @@ You can try to read my blog at [www.l3r8y.ru](https://www.l3r8y.ru/)
 <br/>
 
 Check out the repos I'm working on right now(I need your help, please contribute!):
-[EO](https://github.com/objectionary/eo) [elegram-api](https://github.com/l3r8yJ/elegram-api) [eo-kafka](https://github.com/eo-cqrs/eo-kafka) [jini](https://github.com/l3r8yJ/jini) [sa-tan](https://github.com/l3r8yJ/sa-tan)
+  - [EO](https://github.com/objectionary/eo)
+  - [EO-CQRS](https://github.com/eo-cqrs/)
+  - [Blamer-io](https://github.com/blamer-io/)
