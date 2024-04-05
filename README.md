@@ -11,4 +11,3 @@ You can try to read my blog at [www.l3r8y.ru](https://www.l3r8y.ru/)
 Check out the repos I'm working on right now(I need your help, please contribute!):
   - [EO](https://github.com/objectionary/eo)
   - [EO-CQRS](https://github.com/eo-cqrs/)
-  - [Blamer-io](https://github.com/blamer-io/)
