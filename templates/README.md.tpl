@@ -18,7 +18,7 @@
 #### Contact me
 
 - Blog: [www.l3r8y.ru](https://www.l3r8y.ru)
-- Email: [aliaksei.bialiauski@hey.com](mailto:aliaksei.bialiauski@hey.com)
+- Email: [l3r8y@duck.com](mailto:l3r8y@duck.com)
 - Telegram: [t.me/l3r8y](https://t.me/l3r8y)
 - Linkedin: [/in/l3r8y](https://www.linkedin.com/in/l3r8y)
 
