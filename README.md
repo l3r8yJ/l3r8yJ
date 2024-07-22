@@ -2,9 +2,9 @@
 
 #### Check out some of what I'm working on right now(I need your help, please contribute!):
 
+- [l3r8yJ/zique](https://github.com/l3r8yJ/zique) - Message broker library written in zig
 - [h1alexbel/fakehub](https://github.com/h1alexbel/fakehub) - GitHub API Server Stub. Fully functional fake version of a GitHub API that supports all the features and works locally, with no connection to GitHub at all.
 - [jcabi/jcabi-aspects](https://github.com/jcabi/jcabi-aspects) - Collection of AspectJ Java Aspects to facilitate aspect-oriented programming patterns: logging, caching, validating, etc.
-- [l3r8yJ/l3r8yj.github.io](https://github.com/l3r8yJ/l3r8yj.github.io) - The blog.
 
 #### Latest releases I've contributed to
 
