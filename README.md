@@ -2,9 +2,9 @@
 
 #### Check out some of what I'm working on right now(I need your help, please contribute!):
 
+- [l3r8yJ/l3r8yj.github.io](https://github.com/l3r8yJ/l3r8yj.github.io) - The blog.
 - [l3r8yJ/zique](https://github.com/l3r8yJ/zique) - Message broker library written in zig
 - [h1alexbel/fakehub](https://github.com/h1alexbel/fakehub) - GitHub API Server Stub. Fully functional fake version of a GitHub API that supports all the features and works locally, with no connection to GitHub at all.
-- [jcabi/jcabi-aspects](https://github.com/jcabi/jcabi-aspects) - Collection of AspectJ Java Aspects to facilitate aspect-oriented programming patterns: logging, caching, validating, etc.
 
 #### Latest releases I've contributed to
 
@@ -16,9 +16,9 @@
 
 #### My recent blog posts
 
+- [Don’t let warnings to poison you](https://www.l3r8y.ru/2024/06/26/dont-let-warnings-to-poison-you)
 - [Testing role model with Spring Boot](https://www.l3r8y.ru/2024/05/24/role-model-testing-with-spring-boot)
 - [Confluence clownship or How to avoid meetings and DTOs?](https://www.l3r8y.ru/2024/02/13/confluence-clownship-or-how-to-avoid-meetings)
-- [How to use jcabi-aspects with gradle](https://www.l3r8y.ru/2024/01/15/how-to-use-jcabi-aspects-with-gradle)
 
 #### Contact me
 
