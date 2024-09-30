@@ -8,11 +8,11 @@
 
 #### Latest releases I've contributed to
 
+- [h1alexbel/fakehub](https://github.com/h1alexbel/fakehub) ([0.0.7](https://github.com/h1alexbel/fakehub/releases/tag/0.0.7)) - GitHub API Server Stub. Fully functional fake version of a GitHub API that supports all the features and works locally, with no connection to GitHub at all.
 - [volodya-lombrozo/jtcop](https://github.com/volodya-lombrozo/jtcop) ([1.3.1](https://github.com/volodya-lombrozo/jtcop/releases/tag/1.3.1)) - Maven Plugin for checking tests in Java projects
 - [tracehubpm/code-review-action](https://github.com/tracehubpm/code-review-action) ([0.3.2](https://github.com/tracehubpm/code-review-action/releases/tag/0.3.2)) - Quality of Code Review Checker, plugin it as GitHub Action
 - [l3r8yJ/spring-x-roles-authorities-starter](https://github.com/l3r8yJ/spring-x-roles-authorities-starter) ([0.0.3](https://github.com/l3r8yJ/spring-x-roles-authorities-starter/releases/tag/0.0.3)) - Allows testing of role model for your Spring Boot application 
 - [denis-markushin/schemaspy-gradle-plugin](https://github.com/denis-markushin/schemaspy-gradle-plugin) ([0.3.0](https://github.com/denis-markushin/schemaspy-gradle-plugin/releases/tag/0.3.0)) - 
-- [l3r8yJ/oop-cop](https://github.com/l3r8yJ/oop-cop) ([0.2.9](https://github.com/l3r8yJ/oop-cop/releases/tag/0.2.9)) - The static analysis tool and a Maven plugin that will help you model your objects, classes, methods properly by rejecting your non-perfect code.
 
 #### My recent blog posts
 
