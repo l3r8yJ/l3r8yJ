@@ -3,16 +3,16 @@
 #### Check out some of what I'm working on right now(I need your help, please contribute!):
 
 - [denis-markushin/common-libs](https://github.com/denis-markushin/common-libs) - 
-- [h1alexbel/fakehub](https://github.com/h1alexbel/fakehub) - GitHub API Server Stub. Fully functional fake version of a GitHub API that supports all the features and works locally, with no connection to GitHub at all.
 - [l3r8yJ/l3r8yj.github.io](https://github.com/l3r8yJ/l3r8yj.github.io) - The blog.
+- [h1alexbel/fakehub](https://github.com/h1alexbel/fakehub) - GitHub API Server Stub. Fully functional fake version of a GitHub API that supports all the features and works locally, with no connection to GitHub at all.
 
 #### Latest releases I've contributed to
 
+- [jcabi/jcabi-xml](https://github.com/jcabi/jcabi-xml) ([0.30.0](https://github.com/jcabi/jcabi-xml/releases/tag/0.30.0)) - Java XML Parsing, Transforming, Printing, and Validating
 - [h1alexbel/fakehub](https://github.com/h1alexbel/fakehub) ([0.0.10](https://github.com/h1alexbel/fakehub/releases/tag/0.0.10)) - GitHub API Server Stub. Fully functional fake version of a GitHub API that supports all the features and works locally, with no connection to GitHub at all.
 - [volodya-lombrozo/jtcop](https://github.com/volodya-lombrozo/jtcop) ([1.3.1](https://github.com/volodya-lombrozo/jtcop/releases/tag/1.3.1)) - Maven Plugin for checking tests in Java projects
 - [tracehubpm/code-review-action](https://github.com/tracehubpm/code-review-action) ([0.3.2](https://github.com/tracehubpm/code-review-action/releases/tag/0.3.2)) - Quality of Code Review Checker, plugin it as GitHub Action
 - [l3r8yJ/spring-x-roles-authorities-starter](https://github.com/l3r8yJ/spring-x-roles-authorities-starter) ([0.0.3](https://github.com/l3r8yJ/spring-x-roles-authorities-starter/releases/tag/0.0.3)) - Allows testing of role model for your Spring Boot application 
-- [denis-markushin/schemaspy-gradle-plugin](https://github.com/denis-markushin/schemaspy-gradle-plugin) ([0.3.0](https://github.com/denis-markushin/schemaspy-gradle-plugin/releases/tag/0.3.0)) - 
 
 #### My recent blog posts
 
