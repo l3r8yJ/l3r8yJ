@@ -8,7 +8,7 @@
 
 #### Latest releases I've contributed to
 
-- [jcabi/jcabi-xml](https://github.com/jcabi/jcabi-xml) ([0.32.0](https://github.com/jcabi/jcabi-xml/releases/tag/0.32.0)) - Java XML Parsing, Transforming, Printing, and Validating
+- [jcabi/jcabi-xml](https://github.com/jcabi/jcabi-xml) ([0.33.2](https://github.com/jcabi/jcabi-xml/releases/tag/0.33.2)) - Java XML Parsing, Transforming, Printing, and Validating
 - [h1alexbel/fakehub](https://github.com/h1alexbel/fakehub) ([0.0.10](https://github.com/h1alexbel/fakehub/releases/tag/0.0.10)) - GitHub API Server Stub. Fully functional fake version of a GitHub API that supports all the features and works locally, with no connection to GitHub at all.
 - [volodya-lombrozo/jtcop](https://github.com/volodya-lombrozo/jtcop) ([1.3.1](https://github.com/volodya-lombrozo/jtcop/releases/tag/1.3.1)) - Maven Plugin for checking tests in Java projects
 - [tracehubpm/code-review-action](https://github.com/tracehubpm/code-review-action) ([0.3.2](https://github.com/tracehubpm/code-review-action/releases/tag/0.3.2)) - Quality of Code Review Checker, plugin it as GitHub Action
