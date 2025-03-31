@@ -2,9 +2,9 @@
 
 #### Check out some of what I'm working on right now(I need your help, please contribute!):
 
+- [l3r8yJ/l3r8yj.github.io](https://github.com/l3r8yJ/l3r8yj.github.io) - The blog.
 - [l3r8yJ/prefixed-maven-plugin](https://github.com/l3r8yJ/prefixed-maven-plugin) - A Maven plugin that enforces naming conventions for classes implementing interfaces annotated with `@RequirePrefix`
 - [l3r8yJ/dotfiles](https://github.com/l3r8yJ/dotfiles) - 
-- [objectionary/jeo-maven-plugin](https://github.com/objectionary/jeo-maven-plugin) - This Maven plugin converts Java Bytecode binary files to EOLANG programs that use the &#34;opcode&#34; atom
 
 #### Latest releases I've contributed to
 
