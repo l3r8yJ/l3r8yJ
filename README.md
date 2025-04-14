@@ -8,7 +8,7 @@
 
 #### Latest releases I've contributed to
 
-- [objectionary/jeo-maven-plugin](https://github.com/objectionary/jeo-maven-plugin) ([0.8.3](https://github.com/objectionary/jeo-maven-plugin/releases/tag/0.8.3)) - This Maven plugin converts Java Bytecode binary files to EOLANG programs that use the &#34;opcode&#34; atom
+- [objectionary/jeo-maven-plugin](https://github.com/objectionary/jeo-maven-plugin) ([0.9.0](https://github.com/objectionary/jeo-maven-plugin/releases/tag/0.9.0)) - This Maven plugin converts Java Bytecode binary files to EOLANG programs that use the &#34;opcode&#34; atom
 - [l3r8yJ/prefixed-maven-plugin](https://github.com/l3r8yJ/prefixed-maven-plugin) ([1.0.0](https://github.com/l3r8yJ/prefixed-maven-plugin/releases/tag/1.0.0)) - A Maven plugin that enforces naming conventions for classes implementing interfaces annotated with `@RequirePrefix`
 - [jcabi/jcabi-xml](https://github.com/jcabi/jcabi-xml) ([0.33.5](https://github.com/jcabi/jcabi-xml/releases/tag/0.33.5)) - Java XML Parsing, Transforming, Printing, and Validating
 - [h1alexbel/fakehub](https://github.com/h1alexbel/fakehub) ([0.0.10](https://github.com/h1alexbel/fakehub/releases/tag/0.0.10)) - GitHub API Server Stub. Fully functional fake version of a GitHub API that supports all the features and works locally, with no connection to GitHub at all.
